@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="bcbsmp.lib"/>
+    <File Path="cb_strings.res"/>
+    <File Path="IndyCore.lib"/>
+    <File Path="IndyProtocols.lib"/>
+    <File Path="IndySystem.lib"/>
+    <File Path="JvControls.lib"/>
+    <File Path="JvDB.lib"/>
+    <File Path="JvMM.lib"/>
+    <File Path="JvStdCtrls.lib"/>
+    <File Path="libacmm.lib"/>
+    <File Path="libbcb.lib"/>
+    <File Path="libpas.lib"/>
+    <File Path="librd.lib"/>
+    <File Path="libutl.lib"/>
+    <File Path="libwin.lib"/>
+    <File Path="Mc_CfgEnergyRatioTrend.cpp"/>
+    <File Path="Mc_CfgEnergyRatioTrend.cpp"/>
+    <File Path="Mc_CfgEnergyRatioTrend.dfm"/>
+    <File Path="Mc_CfgEnergyRatioTrend.h"/>
+    <File Path="Mc_FreqBandsForm.cpp"/>
+    <File Path="Mc_FreqBandsForm.cpp"/>
+    <File Path="Mc_FreqBandsForm.dfm"/>
+    <File Path="Mc_FreqBandsForm.h"/>
+    <File Path="Mc_SpectrTrendBuffers.cpp"/>
+    <File Path="Mc_SpectrTrendBuffers.cpp"/>
+    <File Path="Mc_SpectrTrendBuffers.h"/>
+    <File Path="Mc_SpectrTrendHi.cpp"/>
+    <File Path="Mc_SpectrTrendHi.cpp"/>
+    <File Path="Mc_SpectrTrendHi.dfm"/>
+    <File Path="Mc_SpectrTrendHi.h"/>
+    <File Path="Mc_SpectrTrendProc.cpp"/>
+    <File Path="Mc_SpectrTrendProc.h"/>
+    <File Path="Mc_SpectrTrendSettings.cpp"/>
+    <File Path="Mc_SpectrTrendSettings.cpp"/>
+    <File Path="Mc_SpectrTrendSettings.dfm"/>
+    <File Path="Mc_SpectrTrendSettings.h"/>
+    <File Path="Mc_SpectrTrendStorage.cpp"/>
+    <File Path="Mc_SpectrTrendStorage.cpp"/>
+    <File Path="Mc_SpectrTrendStorage.h"/>
+    <File Path="Mc_Strings.res"/>
+    <File Path="Mc_Freque.cpp"/>
+    <File Path="Mc_Freque.cpp"/>
+    <File Path="Mc_Freque.dfm"/>
+    <File Path="Mc_Freque.h"/>
+    <File Path="SpektDraw.cpp"/>
+    <File Path="SpektDraw.cpp"/>
+    <File Path="SpektDraw.dfm"/>
+    <File Path="SpektDraw.h"/>
+    <File Path="SpektrTest.cpp"/>
+    <File Path="SpektrTest.res"/>
+    <File Path="vclx.lib"/>
+  </ProjectSortOrder>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.736,=C:\Users\LARIONOV\Desktop\PT\Проект Темы\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\LARIONOV\Desktop\PT\Проект Темы\Unit1.h=C:\Users\LARIONOV\Desktop\PT\Проект Темы\Mc_Freque.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\LARIONOV\Desktop\PT\Проект Темы\Unit1.dfm=C:\Users\LARIONOV\Desktop\PT\Проект Темы\Mc_Freque.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.149,C:\Users\LARIONOV\Desktop\PT\Проект Темы\Unit1.cpp=C:\Users\LARIONOV\Desktop\PT\Проект Темы\Mc_Freque.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
